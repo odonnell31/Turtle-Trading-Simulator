@@ -3,7 +3,7 @@ Project Objective: Create a python simulator that implements the famous "Turtle 
 - author: Michael O'Donnell
 - created: 5/15/20
 
-## To test this project:
+## To use/test this project:
 Simply open the python file "turtle_trading_simulator.py" and change the parameters listed at the top:
 - stock
 - start_date
