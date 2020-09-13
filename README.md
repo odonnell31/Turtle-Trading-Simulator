@@ -3,9 +3,6 @@ Project Objective: Create a python simulator that implements the famous "Turtle 
 - author: Michael O'Donnell
 - created: 5/15/20
 
-## Example of results:
-![Alt text](presentation/img/nflx_example.JPG)
-
 ## To test this project:
 Simply open the python file "turtle_trading_simulator.py" and change the parameters listed at the top:
 - stock
@@ -29,6 +26,9 @@ All data in this project is from Yahoo Finance. The Yahoo Finance data is import
 - pandas
 - yfinance
 - matplotlib
+
+## Example of results:
+![Alt text](presentation/img/nflx_example.JPG)
 
 ## Room for improvement
 Turn this into a dash application! Also, implement more Turtle Trading rules for shorting stocks
